@@ -1,1 +1,2 @@
-# CSE422 Lab01 Basic Python problems solution
+# CSE422 Artificial Intelligence Lab Solves
+# Course of BRAC University
