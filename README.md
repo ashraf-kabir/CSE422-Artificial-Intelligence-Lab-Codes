@@ -3,5 +3,6 @@
 1. Basic Python
 2. Numpy Basic
 3. Pandas Basic
-R. Logistic Regression
-4. Data Visualization
+4. Logistic Regression
+5. Data Visualization and Statistical Analysis
+6. Genetic Algorithm
